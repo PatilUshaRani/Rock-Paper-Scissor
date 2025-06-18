@@ -1,0 +1,13 @@
+Rock Paper Scissor
+# .gitignore
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/

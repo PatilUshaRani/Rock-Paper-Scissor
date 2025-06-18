@@ -1,0 +1,3 @@
+Requirements:
+
+No external packages needed, only standard Python library
